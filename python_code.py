@@ -1,4 +1,6 @@
-print("Hello")
+#Libraries to use
 
-:wq
-HelloHello Capstone Project Course!Hello Capstone Project Course! Capstone Project Course!Hello Capstone Project Course!
+import numpy as np
+import pandas as pd
+
+print("Hello Capstone Project Course!")
